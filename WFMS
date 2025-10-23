@@ -1,0 +1,21 @@
+/food-waste-management-system
+│
+├── index.html
+├── donate.html
+├── login.html
+├── contact.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+├── php/
+│   ├── connect.php
+│   ├── login.php
+│   ├── donate.php
+│   └── fetch_donations.php
+│
+└── database/
+    └── food_management.sql
